@@ -62,13 +62,6 @@ Malnad College of Engineering
 
 ---
 
-## 📊 GitHub Stats
-
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrajDev23&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajDev23&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prajwal-kumbar-h-m-4041b0268/) or drop me a message at **phm23038@gmail.com**.
