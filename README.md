@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="A4jErAqXbGcUhtVaUtM53Uf1kvmYTx8hWEKwTzBSMm0" />
 # 👋 Hi, I'm Prajwal Kumbar H M
 
 🚀 A passionate developer pursuing B.E. in Computer Science from Malnad College of Engineering. I specialize in backend development and building full-stack web applications using Laravel, Node.js, and modern frontend frameworks.
