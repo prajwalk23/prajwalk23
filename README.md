@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Prajwal Kumbar H M
 
-<!--
-**prajwalk23/prajwalk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate developer pursuing B.E. in Computer Science from Malnad College of Engineering. I specialize in backend development and building full-stack web applications using Laravel, Node.js, and modern frontend frameworks.
 
-Here are some ideas to get you started:
+📫 Reach me at: **phm23038@gmail.com**  
+📍 Based in: Hassan, India  
+💼 [LinkedIn](https://www.linkedin.com/in/prajwal-kumbar-h-m-4041b0268/) | [GitHub](https://github.com/PrajDev23/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Work Experience
+
+**PHP Developer @ TRRev Technologies (Virtual)**  
+📅 Feb 2024 – Jan 2025  
+- Integrated PhonePe API for seamless payment processing.
+- Worked on Laravel and Core PHP applications.
+- Managed production servers via cPanel.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (CSE)**  
+Malnad College of Engineering  
+📅 2021 – 2025
+
+---
+
+## 📚 Trainings & Certifications
+
+- **Robotic Process Automation (UIPath)** – Employability.life  
+- **Web Development** – Internshala Trainings  
+- **C & C++ Programming** – Internshala Trainings  
+- **Data Structures & Algorithms** – Internshala Trainings  
+
+---
+
+## 🔨 Projects
+
+### 🏺 [Ceramica](https://github.com/prajwalk23/ceramica)
+> An e-commerce platform for ceramic products built with **Node.js**.
+
+- Catalog browsing, search & filter features
+- Cart, authentication, and session management
+- Secure checkout and fast performance
+
+### 🏠 [PGLife](https://github.com/prajwalk23/PGLife)
+> Online platform for booking PG accommodations using **PHP & MySQL**.
+
+- User login, account management, and booking history
+- PHP-based backend with database-driven listings
+
+---
+
+## 💻 Tech Stack
+
+**Languages**: PHP, JavaScript, C++, Python  
+**Frameworks**: Laravel, Node.js, React  
+**Frontend**: HTML, CSS, Bootstrap, Tailwind, jQuery  
+**Database**: MySQL, DBMS  
+**Tools**: VMware, Linux, cPanel, Git
+
+---
+
+## 📊 GitHub Stats
+
+![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrajDev23&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajDev23&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prajwal-kumbar-h-m-4041b0268/) or drop me a message at **phm23038@gmail.com**.
